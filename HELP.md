@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'sia.taco-cloud' is invalid and this project uses 'sia.tacocloud' instead.
-
 # Getting Started
 
 ### Reference Documentation
