@@ -16,6 +16,7 @@
 build
 ### Example user template template
 ### Example user template
+*.xml
 
 # IntelliJ project files
 .idea
